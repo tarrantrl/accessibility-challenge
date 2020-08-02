@@ -1,3 +1,6 @@
 # Challenge Week 1: Code refactor
+This version of the Horiseon website has accessible features, including semantic HTML elements, alt attributes for images, a descriptive title, and logically ordered HTML content. These features make it easier for screenreaders to navigate the page.
 
-[View the website](/Develop/index.html)
+(!Image of Horiseon)[./Develop/assets/Horiseon-screenshot.png]
+
+[View the accessible Horiseon page here.](/Develop/index.html)
